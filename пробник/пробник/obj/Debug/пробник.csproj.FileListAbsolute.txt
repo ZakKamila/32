@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\пробник\пробник\bin\Debug\пробник.exe.config
+C:\Users\Lenovo\source\repos\пробник\пробник\bin\Debug\пробник.exe
+C:\Users\Lenovo\source\repos\пробник\пробник\bin\Debug\пробник.pdb
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\пробник.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\Студент.g.cs
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\пробник_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\пробник_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\Студент.baml
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\пробник.g.resources
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\пробник.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\пробник.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\пробник.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\пробник.exe
+C:\Users\Lenovo\source\repos\пробник\пробник\obj\Debug\пробник.pdb
